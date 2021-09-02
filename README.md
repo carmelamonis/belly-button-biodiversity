@@ -8,4 +8,4 @@ First we read in the [samples.json](data/samples.json) using the D3 library in o
 
 The first chart is a horizontal barchart to display the top 10 OTUs found in an individual. The second chart is a bubble chart that display each sample. When rendered, the page should display these charts along with the individual's demographic information.
 
-![Page](page.png)
+![Page](images/page.png)
