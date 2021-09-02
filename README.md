@@ -9,3 +9,5 @@ First we read in the [samples.json](data/samples.json) using the D3 library in o
 A dropdown is available in order to view the visualizations for a specific individual. The first chart is a horizontal barchart to display the top 10 OTUs found in an individual. The second chart is a bubble chart that display each sample. When rendered, the page should display these charts along with the individual's demographic information. 
 
 ![Page](images/page.png)
+
+Dashboard can be found by following the link for [https://carmelamonis.github.io/belly-button-biodiversity/](https://carmelamonis.github.io/belly-button-biodiversity/)
