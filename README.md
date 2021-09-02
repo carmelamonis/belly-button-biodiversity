@@ -7,3 +7,5 @@ Here we are exploring the [Belly Button Biodiversity dataset](http://robdunnlab.
 First we read in the [samples.json](data/samples.json) using the D3 library in order to create a few charts.
 
 The first chart is a horizontal barchart to display the top 10 OTUs found in an individual. The second chart is a bubble chart that display each sample. When rendered, the page should display these charts along with the individual's demographic information.
+
+![Page](page.png)
