@@ -1,6 +1,6 @@
 ## Summary
 
-Here we are exploring the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels. This dataset reveals tha ta smal handful of microbial specicies called operator taxonomic units (OTUs) were present in more than 70% of humans. We are loading in the dataset using JavaScript and using Plotly to create visualizations of the data.
+Here we are exploring the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels. This dataset reveals that a small handful of microbial specicies called operator taxonomic units (OTUs) were present in more than 70% of humans. We are loading in the dataset using JavaScript and using Plotly to create visualizations of the data.
 
 ## Scope
 
